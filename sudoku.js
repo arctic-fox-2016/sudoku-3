@@ -17,3 +17,5 @@ SudokuSolver.solve({
   , style: true
   , initial: true
 }).printSolution();
+
+//solved
